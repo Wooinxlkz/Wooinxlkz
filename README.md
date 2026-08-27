@@ -54,6 +54,33 @@ const karim = {
 
 ---
 
+I don't build for a portfolio. I build because I run into the gap myself — a download manager that isn't bloated, a nutrition tool that actually understands MENA food, an auth system that verifies *how* you sign, not just *that* you signed — and the fastest way I know to close a gap is to ship the thing. Most of what follows started as a personal itch and turned into something that works end to end: backend, interface, packaging, distribution. If it's here, it's not a prototype — it's live.
+
+## `$ ls ./projects`
+
+**[Speusis Downloader](https://github.com/Wooinxlkz/Speusis-Downloader)**
+A real download manager, not a toy. HTTP, FTP, BitTorrent (via a ported `librqbit` engine), RSS auto-download, a scheduler, a license system, a browser extension, archive extraction, media playback — rebuilt from Electron into a native Tauri v2 + Rust app because the Electron version wasn't good enough to ship.
+
+**[glyf](https://github.com/Wooinxlkz/glyf)**
+Biometric signature authentication from scratch: curvature-weighted dynamic time warping, inter-stroke rhythm fingerprinting, angular momentum, stroke topology, adversarial forgery simulation. The kind of thing people usually cite a paper for — I wrote it.
+
+**[kinetic](https://github.com/Wooinxlkz/kinetic)**
+A motion-driven component library for React & Next.js — animated primitives, spring-based layout engines, a component playground. Built as a free-forever alternative after the library I liked went behind a paywall.
+
+**[fine-print-guardian](https://github.com/Wooinxlkz/fine-print-guardian)**
+Paste any contract, get a clause-by-clause risk breakdown in plain English. Groq + Llama 3.3 70B under the hood, built so non-lawyers can actually read what they're signing.
+
+**[NutriLLM](https://github.com/Wooinxlkz/NutriLLM)**
+An AI nutrition platform for MENA cuisine specifically — because every nutrition tool out there is built around Western food data and just doesn't work for this region. Bilingual Arabic/English, full monorepo, real backend.
+
+**[athlete-core](https://github.com/Wooinxlkz/athlete-core)** · **[solair-core](https://github.com/Wooinxlkz/solair-core)**
+Two framework-agnostic TypeScript engines — one for athlete/gym platforms (workouts, XP, goals, AI coaching), one for solar system design and energy forecasting.
+
+**[UnderCtrl](https://github.com/Wooinxlkz/UnderCtrl)** · **[Tokka](https://github.com/Wooinxlkz/Tokka)**
+A privacy-first browser blocker with zero telemetry, and a lightweight extension that shows token cost/usage across Claude, ChatGPT, Gemini, DeepSeek, and Kimi.
+
+---
+
 ## `$ ls ./tech-stack`
 
 <div align="center">
@@ -81,86 +108,14 @@ const karim = {
 
 ---
 
-## `$ ls ./projects --pinned`
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Wooinxlkz&repo=Speusis-Downloader&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=888888&text_color=aaaaaa"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wooinxlkz&repo=Speusis-Downloader&hide_border=true&bg_color=ffffff&title_color=111111&icon_color=555555&text_color=444444"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Wooinxlkz&repo=glyf&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=888888&text_color=aaaaaa"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wooinxlkz&repo=glyf&hide_border=true&bg_color=ffffff&title_color=111111&icon_color=555555&text_color=444444"/>
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Wooinxlkz&repo=kinetic&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=888888&text_color=aaaaaa"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wooinxlkz&repo=kinetic&hide_border=true&bg_color=ffffff&title_color=111111&icon_color=555555&text_color=444444"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Wooinxlkz&repo=fine-print-guardian&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=888888&text_color=aaaaaa"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wooinxlkz&repo=fine-print-guardian&hide_border=true&bg_color=ffffff&title_color=111111&icon_color=555555&text_color=444444"/>
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Wooinxlkz&repo=NutriLLM&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=888888&text_color=aaaaaa"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wooinxlkz&repo=NutriLLM&hide_border=true&bg_color=ffffff&title_color=111111&icon_color=555555&text_color=444444"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Wooinxlkz&repo=UnderCtrl&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=888888&text_color=aaaaaa"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wooinxlkz&repo=UnderCtrl&hide_border=true&bg_color=ffffff&title_color=111111&icon_color=555555&text_color=444444"/>
-</picture>
-
-</div>
-
-*(Pin these same 6 in your GitHub profile settings so they match what's shown here.)*
-
----
-
-## `$ cat ./stats`
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Wooinxlkz&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=888888&text_color=aaaaaa&include_all_commits=true&count_private=true&rank_icon=github"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Wooinxlkz&show_icons=true&hide_border=true&bg_color=ffffff&title_color=111111&icon_color=555555&text_color=444444&include_all_commits=true&count_private=true&rank_icon=github" height="165"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Wooinxlkz&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=aaaaaa&langs_count=8"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wooinxlkz&layout=compact&hide_border=true&bg_color=ffffff&title_color=111111&text_color=444444&langs_count=8" height="165"/>
-</picture>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Wooinxlkz&hide_border=true&background=0d1117&stroke=333333&ring=888888&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=666666&currStreakNum=ffffff&sideNums=aaaaaa"/>
-  <img src="https://streak-stats.demolab.com/?user=Wooinxlkz&hide_border=true&background=ffffff&stroke=dddddd&ring=555555&fire=111111&currStreakLabel=111111&sideLabels=555555&dates=999999&currStreakNum=111111&sideNums=555555"/>
-</picture>
-
-</div>
-
----
-
-## `$ git log --graph`
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Wooinxlkz&bg_color=0d1117&color=888888&line=555555&point=ffffff&area_color=1a1a1a&area=true&hide_border=true"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wooinxlkz&bg_color=ffffff&color=555555&line=bbbbbb&point=111111&area_color=f5f5f5&area=true&hide_border=true" width="100%"/>
-</picture>
-</div>
-
----
-
 None of this came from a roadmap. It came from being the kind of person who opens the hood on things — on a circuit, on an app, on whatever's in front of me — because I need to know how it actually works before I trust it. Electrical engineering gave me the instinct. Software gave me the speed to act on it. Still doing the same thing I started with: finding the gap, and closing it.
 
 ## `$ ping ./socials`
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Wooinxlkz-111111?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/Wooinxlkz)
-[![X / Twitter](https://img.shields.io/badge/X-syncinitstation-111111?style=for-the-badge&logo=x&logoColor=ffffff)](https://x.com/syncinitstation)
+[![X / Twitter](https://img.shields.io/badge/X-Wooinxlkz-111111?style=for-the-badge&logo=x&logoColor=ffffff)](https://x.com/Wooinxlkz)
+[![Instagram](https://img.shields.io/badge/Instagram-ka._.r1m-111111?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/ka._.r1m)
 [![Discord](https://img.shields.io/badge/Discord-ka._r1m-111111?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.com/users/ka._r1m)
 
 </div>
