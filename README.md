@@ -1,25 +1,22 @@
 <!-- ═══════════════════════════════════════════════════════════
      WOOINXLKZ — GitHub Profile README
-     Theme: Auto (dark/light adaptive)
+     Theme: Monochrome, dark/light adaptive
      ═══════════════════════════════════════════════════════════ -->
 
-<!-- HEADER -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:1a1a1a,100:222222&height=200&section=header&text=Wooinxlkz&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Developer%20%E2%80%A2%20Automator%20%E2%80%A2%20Builder&descAlignY=62&descSize=18&descColor=aaaaaa"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:f5f5f5,50:eeeeee,100:e0e0e0&height=200&section=header&text=Wooinxlkz&fontSize=72&fontColor=111111&animation=fadeIn&fontAlignY=40&desc=Developer%20%E2%80%A2%20Automator%20%E2%80%A2%20Builder&descAlignY=62&descSize=18&descColor=555555"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:1a1a1a,100:222222&height=200&section=header&text=Wooinxlkz&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Developer%20%E2%80%A2%20Automator%20%E2%80%A2%20Builder&descAlignY=62&descSize=18&descColor=aaaaaa" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:1a1a1a,100:222222&height=200&section=header&text=Karim&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Electrical%20Engineer%20%E2%86%92%20Software%20Builder&descAlignY=62&descSize=18&descColor=aaaaaa"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:f5f5f5,50:eeeeee,100:e0e0e0&height=200&section=header&text=Karim&fontSize=72&fontColor=111111&animation=fadeIn&fontAlignY=40&desc=Electrical%20Engineer%20%E2%86%92%20Software%20Builder&descAlignY=62&descSize=18&descColor=555555"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:1a1a1a,100:222222&height=200&section=header&text=Karim&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Electrical%20Engineer%20%E2%86%92%20Software%20Builder&descAlignY=62&descSize=18&descColor=aaaaaa" width="100%"/>
 </picture>
 
 <div align="center">
 
-<!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=888888&center=true&vCenter=true&width=550&lines=Full+Stack+Developer+%F0%9F%9B%A0%EF%B8%8F;Discord+Bot+Architect+%F0%9F%A4%96;n8n+%2B+AI+Workflow+Engineer+%E2%9A%A1;Browser+Extension+Builder+%F0%9F%94%A7;Open+Source+Contributor+%F0%9F%8C%8D;Algeria+%F0%9F%87%A9%F0%9F%87%BF+%E2%86%92+Global" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=888888&center=true&vCenter=true&width=550&lines=Finding+the+gap%2C+closing+it;Native+Desktop+Apps+%E2%80%94+Tauri+%2B+Rust;Systems-Level+Thinking%2C+Shipped+in+Software;AI-Assisted%2C+Not+AI-Dependent;Solo+Builder+%E2%80%94+Backend+to+UI" alt="Typing SVG"/>
 </a>
 
 <br/>
 
-<!-- BADGES ROW -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Wooinxlkz&label=visitors&color=888888&style=flat-square)
 [![GitHub followers](https://img.shields.io/github/followers/Wooinxlkz?label=followers&style=flat-square&color=888888&labelColor=111111)](https://github.com/Wooinxlkz)
 [![GitHub User's stars](https://img.shields.io/github/stars/Wooinxlkz?label=total%20stars&style=flat-square&color=888888&labelColor=111111)](https://github.com/Wooinxlkz)
@@ -28,29 +25,30 @@
 
 ---
 
+Electrical engineering is where I started — circuits, systems, signals. The kind of discipline that teaches you to think in inputs, outputs, and what happens in between. I got obsessed with that "in between" part, and software turned out to be where I could build it fastest. No CS degree, no bootcamp — just a habit of noticing when something that should exist doesn't, and not being able to leave it alone until it does.
+
 ## `$ whoami`
 
 ```typescript
-const wooinxlkz = {
-  name        : "Wooinxlkz",
-  location    : "Algeria 🇩🇿",
-  role        : ["Full Stack Dev", "Automation Engineer", "Bot Developer"],
+const karim = {
+  handle      : "Wooinxlkz",
+  background  : "Electrical Engineering",
+  role        : ["Full Stack Developer", "Systems Builder"],
 
-  currentlyBuilding: [
-    "UnderCtrl — privacy-first browser extension",
-    "n8n AI workflow templates",
-    "Discord bots with CommandKit",
+  shipping: [
+    "Speusis Downloader — native Tauri/Rust download manager",
+    "glyf — biometric signature authentication engine",
+    "kinetic — motion-driven React component toolkit",
   ],
 
-  expertise: {
-    automation : ["n8n", "AI Agents", "LLM Pipelines", "Webhooks"],
-    bots       : ["Discord.js", "CommandKit", "Slash Commands"],
-    web        : ["JavaScript", "TypeScript", "HTML", "CSS", "Node.js"],
-    tools      : ["Chrome Extensions", "REST APIs", "Git", "Linux"],
+  stack: {
+    languages : ["TypeScript", "JavaScript", "Rust", "Python"],
+    frontend  : ["React", "Next.js", "Tailwind", "Framer Motion"],
+    backend   : ["Node.js", "Express", "PostgreSQL", "Drizzle"],
+    platform  : ["Tauri", "Git", "Linux"],
   },
 
-  openTo      : ["Collaboration", "Open Source", "Freelance Projects"],
-  languages   : ["Arabic (native)", "French", "English"],
+  philosophy  : "Find the gap. Ship the thing. No prototypes — if it's here, it's live.",
 };
 ```
 
@@ -60,32 +58,63 @@ const wooinxlkz = {
 
 <div align="center">
 
-#### Languages & Runtime
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+#### Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Rust](https://img.shields.io/badge/Rust-111111?style=for-the-badge&logo=rust&logoColor=ffffff)
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB)
+
+#### Frontend
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
+![Tailwind](https://img.shields.io/badge/Tailwind-111111?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![Framer](https://img.shields.io/badge/Framer_Motion-111111?style=for-the-badge&logo=framer&logoColor=0055FF)
+
+#### Backend & Platform
 ![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=339933)
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6)
-
-#### Automation & AI
-![n8n](https://img.shields.io/badge/n8n-111111?style=for-the-badge&logo=n8n&logoColor=EA4B71)
-![OpenAI](https://img.shields.io/badge/OpenAI-111111?style=for-the-badge&logo=openai&logoColor=ffffff)
-![LangChain](https://img.shields.io/badge/LangChain-111111?style=for-the-badge&logo=langchain&logoColor=1C3C3C)
-![Webhooks](https://img.shields.io/badge/Webhooks-111111?style=for-the-badge&logo=zapier&logoColor=FF4A00)
-
-#### Discord & Bots
-![Discord.js](https://img.shields.io/badge/Discord.js-111111?style=for-the-badge&logo=discord&logoColor=5865F2)
-![CommandKit](https://img.shields.io/badge/CommandKit-111111?style=for-the-badge&logo=discord&logoColor=5865F2)
-
-#### Tools & Environment
-![Chrome Extension](https://img.shields.io/badge/Chrome_Extension-111111?style=for-the-badge&logo=googlechrome&logoColor=4285F4)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Tauri](https://img.shields.io/badge/Tauri-111111?style=for-the-badge&logo=tauri&logoColor=FFC131)
 ![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=ffffff)
-![VS Code](https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 ![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Postman](https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=postman&logoColor=FF6C37)
 
 </div>
+
+---
+
+## `$ ls ./projects --pinned`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Wooinxlkz&repo=Speusis-Downloader&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=888888&text_color=aaaaaa"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wooinxlkz&repo=Speusis-Downloader&hide_border=true&bg_color=ffffff&title_color=111111&icon_color=555555&text_color=444444"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Wooinxlkz&repo=glyf&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=888888&text_color=aaaaaa"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wooinxlkz&repo=glyf&hide_border=true&bg_color=ffffff&title_color=111111&icon_color=555555&text_color=444444"/>
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Wooinxlkz&repo=kinetic&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=888888&text_color=aaaaaa"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wooinxlkz&repo=kinetic&hide_border=true&bg_color=ffffff&title_color=111111&icon_color=555555&text_color=444444"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Wooinxlkz&repo=fine-print-guardian&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=888888&text_color=aaaaaa"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wooinxlkz&repo=fine-print-guardian&hide_border=true&bg_color=ffffff&title_color=111111&icon_color=555555&text_color=444444"/>
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Wooinxlkz&repo=NutriLLM&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=888888&text_color=aaaaaa"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wooinxlkz&repo=NutriLLM&hide_border=true&bg_color=ffffff&title_color=111111&icon_color=555555&text_color=444444"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Wooinxlkz&repo=UnderCtrl&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=888888&text_color=aaaaaa"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wooinxlkz&repo=UnderCtrl&hide_border=true&bg_color=ffffff&title_color=111111&icon_color=555555&text_color=444444"/>
+</picture>
+
+</div>
+
+*(Pin these same 6 in your GitHub profile settings so they match what's shown here.)*
 
 ---
 
@@ -124,58 +153,22 @@ const wooinxlkz = {
 
 ---
 
-## `$ ls ./projects --pinned`
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Wooinxlkz&repo=Underctrl-browser-extension&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=888888&text_color=aaaaaa"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wooinxlkz&repo=Underctrl-browser-extension&hide_border=true&bg_color=ffffff&title_color=111111&icon_color=555555&text_color=444444"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Wooinxlkz&repo=N8N-Workflows-free-templates&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=888888&text_color=aaaaaa"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wooinxlkz&repo=N8N-Workflows-free-templates&hide_border=true&bg_color=ffffff&title_color=111111&icon_color=555555&text_color=444444"/>
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Wooinxlkz&repo=commandkit-dc-starter-project&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=888888&text_color=aaaaaa"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wooinxlkz&repo=commandkit-dc-starter-project&hide_border=true&bg_color=ffffff&title_color=111111&icon_color=555555&text_color=444444"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Wooinxlkz&repo=DJS-Commands&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=888888&text_color=aaaaaa"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wooinxlkz&repo=DJS-Commands&hide_border=true&bg_color=ffffff&title_color=111111&icon_color=555555&text_color=444444"/>
-</picture>
-
-</div>
-
----
-
-## `$ top --trophies`
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Wooinxlkz&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Wooinxlkz&theme=flat&no-frame=true&no-bg=true&margin-w=6&column=7"/>
-</picture>
-</div>
-
----
+None of this came from a roadmap. It came from being the kind of person who opens the hood on things — on a circuit, on an app, on whatever's in front of me — because I need to know how it actually works before I trust it. Electrical engineering gave me the instinct. Software gave me the speed to act on it. Still doing the same thing I started with: finding the gap, and closing it.
 
 ## `$ ping ./socials`
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-ka._r1m-111111?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.com/users/ka._r1m)
-[![X / Twitter](https://img.shields.io/badge/X-syncinitstation-111111?style=for-the-badge&logo=x&logoColor=ffffff)](https://x.com/syncinitstation)
 [![GitHub](https://img.shields.io/badge/GitHub-Wooinxlkz-111111?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/Wooinxlkz)
+[![X / Twitter](https://img.shields.io/badge/X-syncinitstation-111111?style=for-the-badge&logo=x&logoColor=ffffff)](https://x.com/syncinitstation)
+[![Discord](https://img.shields.io/badge/Discord-ka._r1m-111111?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.com/users/ka._r1m)
 
 </div>
 
 ---
 
-<!-- FOOTER -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:222222,50:1a1a1a,100:111111&height=120&section=footer&fontColor=888888&fontSize=13&text=built%20in%20Algeria%20%F0%9F%87%A9%F0%9F%87%BF&fontAlignY=65"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e0e0e0,50:eeeeee,100:f5f5f5&height=120&section=footer&fontColor=888888&fontSize=13&text=built%20in%20Algeria%20%F0%9F%87%A9%F0%9F%87%BF&fontAlignY=65"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:222222,50:1a1a1a,100:111111&height=120&section=footer"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e0e0e0,50:eeeeee,100:f5f5f5&height=120&section=footer"/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:222222,50:1a1a1a,100:111111&height=120&section=footer" width="100%"/>
 </picture>
