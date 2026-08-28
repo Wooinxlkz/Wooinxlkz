@@ -1,157 +1,117 @@
-<div align="center">
+<img src="https://x.tw93.fun/images/hi.gif" alt="Hi" width="20"/> Hey World! I'm **Karim** — an **Electrical Engineer & Software Developer** building practical tools, systems, and open-source projects.
 
-# Karim · Wooinxlkz
+I build with **TypeScript, JavaScript, Rust, Python, React & Tauri**, with a focus on native apps, developer tools, AI, automation, and systems.
 
-### Software Developer · Systems Builder · Creator
+<!-- github_stats starts -->
 
-I build software, developer tools and AI systems —  
-usually starting with something that should exist, but doesn't.
+**0 followers, 1 star, 0 forks** across shipped projects.
 
-<br>
+<!-- github_stats ends -->
 
-<a href="https://github.com/Wooinxlkz">
-  <img src="https://img.shields.io/badge/GitHub-Wooinxlkz-181717?style=flat-square&logo=github" />
-</a>
-<a href="https://github.com/Wooinxlkz?tab=repositories">
-  <img src="https://img.shields.io/badge/Projects-View-181717?style=flat-square&logo=github" />
-</a>
-
-</div>
-
-<br>
-
-<table>
+<table width="1200px" cellspacing="0" cellpadding="0">
 <tr>
-<td width="50%" valign="top">
+<td width="600px" valign="top">
 
-## 🚀 Building
+**Latest Releases**
 
-### [Speusis Downloader](https://github.com/Wooinxlkz/Speusis-Downloader)
+<!-- recent_releases starts -->
 
-Native download manager built with **Tauri + Rust**.
+• [Tokka V1.2.1](https://github.com/Wooinxlkz/Tokka/releases/tag/v1.2.1) - 2026-08-27<br>
+• [UnderCtrl V1.4.5](https://github.com/Wooinxlkz/UnderCtrl/releases/tag/v1.4.5) - 2026-08-26<br>
+• [Speusis Downloader V0.5.68](https://github.com/Wooinxlkz/Speusis-Downloader/releases/tag/v0.5.68) - 2026-08-25
 
-HTTP · FTP · BitTorrent · RSS · Scheduler · Browser Extension
-
-### [Xuro](https://github.com/Wooinxlkz/Xuro)
-
-A native desktop application built around the Tauri ecosystem.
-
-### glyf
-
-Biometric signature authentication focused on behavioral verification.
-
-### kinetic
-
-Motion-driven React components and UI experimentation.
+<!-- recent_releases ends -->
 
 </td>
+<td width="600px" valign="top">
 
-<td width="50%" valign="top">
+**Currently Building**
 
-## 🧪 Exploring
-
-### Stitch AI
-
-An AI system designed around a local application brain rather than simply wrapping external APIs.
-
-### Sphere AI
-
-Exploring multi-model AI systems, routing and intelligent tooling.
-
-### Developer Tooling
-
-DSLs, automation systems, workflow tooling and utilities for developers.
-
-### Open Source
-
-Experimenting, rebuilding and publishing things that solve problems I personally run into.
+• Speusis Downloader — native Tauri v2 + Rust download manager<br>
+• glyf — biometric signature authentication engine<br>
+• kinetic — motion-driven React component toolkit<br>
+• UnderCtrl — privacy-first browser blocker
 
 </td>
 </tr>
 </table>
 
-<br>
+## `$ whoami`
 
-## ⚡ What I Work With
+```js
+const karim = {
+  handle: "Wooinxlkz",
+  background: "Electrical Engineering",
+  role: ["Full Stack Developer", "Systems Builder"],
 
-<table>
-<tr>
-<td valign="top" width="33%">
+  building: [
+    "Speusis Downloader",
+    "glyf",
+    "kinetic",
+    "UnderCtrl",
+    "Tokka",
+  ],
 
-### Languages
+  stack: {
+    languages: ["TypeScript", "JavaScript", "Rust", "Python"],
+    frontend: ["React", "Next.js", "Tailwind", "Framer Motion"],
+    backend: ["Node.js", "Express", "PostgreSQL", "Drizzle"],
+    platform: ["Tauri", "Git", "Linux"],
+  },
 
-- TypeScript
-- JavaScript
-- Rust
-- Python
-- HTML / CSS
+  philosophy: "Find the gap. Ship the thing.",
+};
+```
 
-</td>
+## `$ ls ./projects`
 
-<td valign="top" width="33%">
+| Project                                                                 | What it is                                                                                                                                                        |
+| ----------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Speusis Downloader](https://github.com/Wooinxlkz/Speusis-Downloader)   | Native Tauri v2 + Rust download manager with HTTP, FTP, BitTorrent, RSS, scheduling, licensing, browser extension support, archive extraction and media playback. |
+| [glyf](https://github.com/Wooinxlkz/glyf)                               | Biometric signature authentication engine built around handwriting dynamics and forgery analysis.                                                                 |
+| [kinetic](https://github.com/Wooinxlkz/kinetic)                         | Motion-driven React & Next.js component toolkit with animated primitives and spring-based layouts.                                                                |
+| [fine-print-guardian](https://github.com/Wooinxlkz/fine-print-guardian) | AI-powered contract analysis with clause-by-clause risk breakdowns.                                                                                               |
+| [NutriLLM](https://github.com/Wooinxlkz/NutriLLM)                       | AI nutrition platform focused on MENA cuisine with Arabic and English support.                                                                                    |
+| [UnderCtrl](https://github.com/Wooinxlkz/UnderCtrl)                     | Privacy-first browser blocker with zero telemetry.                                                                                                                |
+| [Tokka](https://github.com/Wooinxlkz/Tokka)                             | Lightweight AI token-cost and usage tracker for modern AI platforms.                                                                                              |
 
-### Frontend
+## `$ cat ./activity`
 
-- React
-- Next.js
-- Tailwind CSS
-- Framer Motion
-- Vite
+**Latest Releases**
 
-</td>
+• [Tokka v1.2.1](https://github.com/Wooinxlkz/Tokka/releases/tag/v1.2.1) — 2026-08-27
+• [UnderCtrl v1.4.5](https://github.com/Wooinxlkz/UnderCtrl/releases/tag/v1.4.5) — 2026-08-26
+• [Speusis Downloader v0.5.68](https://github.com/Wooinxlkz/Speusis-Downloader/releases/tag/v0.5.68) — 2026-08-25
 
-<td valign="top" width="33%">
+## `$ ls ./tech-stack`
 
-### Backend / Systems
+**Languages**
 
-- Node.js
-- Tauri
-- Rust
-- PostgreSQL
-- Git
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square\&logo=rust\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
 
-</td>
-</tr>
-</table>
+**Frontend**
 
-<br>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=next.js\&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
 
-## 📦 Latest Releases
+**Backend & Platform**
 
-<!-- RELEASES:START -->
-Loading releases...
-<!-- RELEASES:END -->
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat-square\&logo=tauri\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
 
-<br>
+## `$ ping ./socials`
 
-## 💻 Development Activity
+[![GitHub](https://img.shields.io/badge/GitHub-Wooinxlkz-181717?style=flat-square\&logo=github)](https://github.com/Wooinxlkz)
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+---
 
-<br>
+Electrical engineering gave me the instinct to understand how things work. Software gave me the speed to build them.
 
-## 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wooinxlkz&show_icons=true&hide_border=true&count_private=true&rank_icon=github" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wooinxlkz&layout=compact&hide_border=true&langs_count=8" height="170" />
-</p>
-
-<br>
-
-## 🌐 Find Me
-
-<p align="center">
-  <a href="https://github.com/Wooinxlkz">GitHub</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/Wooinxlkz?tab=repositories">Repositories</a>
-</p>
-
-<br>
-
-<div align="center">
-
-### Build things. Ship things. Keep going.
-
-</div>
+**Find the gap. Ship the thing.**
