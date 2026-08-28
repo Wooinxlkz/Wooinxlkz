@@ -1,6 +1,7 @@
 <!-- ═══════════════════════════════════════════════════════════
      WOOINXLKZ — GitHub Profile README
      Theme: Monochrome, dark/light adaptive
+     Stats + releases below auto-update daily via .github/workflows/update-readme.yml
      ═══════════════════════════════════════════════════════════ -->
 
 <picture>
@@ -17,9 +18,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Wooinxlkz&label=visitors&color=888888&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/Wooinxlkz?label=followers&style=flat-square&color=888888&labelColor=111111)](https://github.com/Wooinxlkz)
-[![GitHub User's stars](https://img.shields.io/github/stars/Wooinxlkz?label=total%20stars&style=flat-square&color=888888&labelColor=111111)](https://github.com/Wooinxlkz)
+<sub><!-- github_stats starts -->0 followers, 0 stars, 0 forks<!-- github_stats ends --> across shipped projects</sub>
 
 </div>
 
@@ -78,6 +77,12 @@ Two framework-agnostic TypeScript engines — one for athlete/gym platforms (wor
 
 **[UnderCtrl](https://github.com/Wooinxlkz/UnderCtrl)** · **[Tokka](https://github.com/Wooinxlkz/Tokka)**
 A privacy-first browser blocker with zero telemetry, and a lightweight extension that shows token cost/usage across Claude, ChatGPT, Gemini, DeepSeek, and Kimi.
+
+---
+
+## `$ cat ./latest-releases`
+
+<!-- recent_releases starts -->No releases yet.<!-- recent_releases ends -->
 
 ---
 
