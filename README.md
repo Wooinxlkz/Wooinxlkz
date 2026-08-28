@@ -36,7 +36,7 @@ I build with **TypeScript, JavaScript, Rust, Python, React & Tauri**, with a foc
 </tr>
 </table>
 
-## `$ whoami`
+## whoami
 
 ```js
 const karim = {
@@ -63,7 +63,7 @@ const karim = {
 };
 ```
 
-## `$ ls ./projects`
+## Projects
 
 | Project                                                                 | What it is                                                                                                                                                        |
 | ----------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -75,7 +75,7 @@ const karim = {
 | [UnderCtrl](https://github.com/Wooinxlkz/UnderCtrl)                     | Privacy-first browser blocker with zero telemetry.                                                                                                                |
 | [Tokka](https://github.com/Wooinxlkz/Tokka)                             | Lightweight AI token-cost and usage tracker for modern AI platforms.                                                                                              |
 
-## `$ cat ./activity`
+## Activity
 
 **Latest Releases**
 
@@ -83,7 +83,7 @@ const karim = {
 • [UnderCtrl v1.4.5](https://github.com/Wooinxlkz/UnderCtrl/releases/tag/v1.4.5) — 2026-08-26
 • [Speusis Downloader v0.5.68](https://github.com/Wooinxlkz/Speusis-Downloader/releases/tag/v0.5.68) — 2026-08-25
 
-## `$ ls ./tech-stack`
+## Tech Stack
 
 **Languages**
 
@@ -106,7 +106,7 @@ const karim = {
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
 
-## `$ ping ./socials`
+## Socials
 
 [![GitHub](https://img.shields.io/badge/GitHub-Wooinxlkz-181717?style=flat-square\&logo=github)](https://github.com/Wooinxlkz)
 
