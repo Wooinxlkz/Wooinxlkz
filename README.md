@@ -1,12 +1,9 @@
 <img src="https://x.tw93.fun/images/hi.gif" alt="Hi" width="20"/> Hey World! I'm **Karim** — an **Electrical Engineer & Software Developer** building practical tools, systems, and open-source projects.
 
-I build with **TypeScript, JavaScript, Rust, Python, React & Tauri**, with a focus on native apps, developer tools, AI, automation, and systems.
+**“If it doesn’t exist, build it.”**
+*From circuits to code, always building.*
 
-<!-- github_stats starts -->
-
-**0 followers, 1 star, 0 forks** across shipped projects.
-
-<!-- github_stats ends -->
+I build with **TypeScript, JavaScript, Rust, Python, React & Tauri**, focusing on native apps, developer tools, AI, automation, and systems.
 
 <table width="1200px" cellspacing="0" cellpadding="0">
 <tr>
@@ -25,63 +22,40 @@ I build with **TypeScript, JavaScript, Rust, Python, React & Tauri**, with a foc
 </td>
 <td width="600px" valign="top">
 
-**Currently Building**
+**Recent Projects**
 
-• Speusis Downloader — native Tauri v2 + Rust download manager<br>
-• glyf — biometric signature authentication engine<br>
-• kinetic — motion-driven React component toolkit<br>
-• UnderCtrl — privacy-first browser blocker
+<!-- recent_projects starts -->
+
+• [Speusis Downloader](https://github.com/Wooinxlkz/Speusis-Downloader) - Tauri + Rust download manager<br>
+• [glyf](https://github.com/Wooinxlkz/glyf) - Biometric signature authentication engine<br>
+• [kinetic](https://github.com/Wooinxlkz/kinetic) - Motion-driven React component toolkit<br>
+• [UnderCtrl](https://github.com/Wooinxlkz/UnderCtrl) - Privacy-first browser blocker
+
+<!-- recent_projects ends -->
 
 </td>
 </tr>
 </table>
 
-## whoami
+## About Me
 
-```js
-const karim = {
-  handle: "Wooinxlkz",
-  background: "Electrical Engineering",
-  role: ["Full Stack Developer", "Systems Builder"],
+I'm an Electrical Engineer who moved deep into software development, building applications, developer tools, AI systems, and experimental projects.
 
-  building: [
-    "Speusis Downloader",
-    "glyf",
-    "kinetic",
-    "UnderCtrl",
-    "Tokka",
-  ],
+I enjoy working close to the system level, especially when software meets hardware, performance, automation, or creative ideas.
 
-  stack: {
-    languages: ["TypeScript", "JavaScript", "Rust", "Python"],
-    frontend: ["React", "Next.js", "Tailwind", "Framer Motion"],
-    backend: ["Node.js", "Express", "PostgreSQL", "Drizzle"],
-    platform: ["Tauri", "Git", "Linux"],
-  },
-
-  philosophy: "Find the gap. Ship the thing.",
-};
-```
+My main stack revolves around **TypeScript, JavaScript, Rust, Python, React, Next.js, Node.js, and Tauri**.
 
 ## Projects
 
-| Project                                                                 | What it is                                                                                                                                                        |
+| Project                                                                 | Description                                                                                                                                                       |
 | ----------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Speusis Downloader](https://github.com/Wooinxlkz/Speusis-Downloader)   | Native Tauri v2 + Rust download manager with HTTP, FTP, BitTorrent, RSS, scheduling, licensing, browser extension support, archive extraction and media playback. |
-| [glyf](https://github.com/Wooinxlkz/glyf)                               | Biometric signature authentication engine built around handwriting dynamics and forgery analysis.                                                                 |
+| [glyf](https://github.com/Wooinxlkz/glyf)                               | Biometric signature authentication engine focused on handwriting dynamics and forgery analysis.                                                                   |
 | [kinetic](https://github.com/Wooinxlkz/kinetic)                         | Motion-driven React & Next.js component toolkit with animated primitives and spring-based layouts.                                                                |
 | [fine-print-guardian](https://github.com/Wooinxlkz/fine-print-guardian) | AI-powered contract analysis with clause-by-clause risk breakdowns.                                                                                               |
 | [NutriLLM](https://github.com/Wooinxlkz/NutriLLM)                       | AI nutrition platform focused on MENA cuisine with Arabic and English support.                                                                                    |
 | [UnderCtrl](https://github.com/Wooinxlkz/UnderCtrl)                     | Privacy-first browser blocker with zero telemetry.                                                                                                                |
 | [Tokka](https://github.com/Wooinxlkz/Tokka)                             | Lightweight AI token-cost and usage tracker for modern AI platforms.                                                                                              |
-
-## Activity
-
-**Latest Releases**
-
-• [Tokka v1.2.1](https://github.com/Wooinxlkz/Tokka/releases/tag/v1.2.1) — 2026-08-27
-• [UnderCtrl v1.4.5](https://github.com/Wooinxlkz/UnderCtrl/releases/tag/v1.4.5) — 2026-08-26
-• [Speusis Downloader v0.5.68](https://github.com/Wooinxlkz/Speusis-Downloader/releases/tag/v0.5.68) — 2026-08-25
 
 ## Tech Stack
 
@@ -106,12 +80,13 @@ const karim = {
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
 
-## Socials
+## GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wooinxlkz\&show_icons=true\&count_private=true)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Wooinxlkz-181717?style=flat-square\&logo=github)](https://github.com/Wooinxlkz)
 
 ---
 
-Electrical engineering gave me the instinct to understand how things work. Software gave me the speed to build them.
-
-**Find the gap. Ship the thing.**
+**“If it doesn’t exist, build it.”**
+*From circuits to code, always building.*
