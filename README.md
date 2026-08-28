@@ -18,7 +18,7 @@
 
 <br/>
 
-<sub><!-- github_stats starts -->0 followers, 0 stars, 0 forks<!-- github_stats ends --> across shipped projects</sub>
+<sub><!-- github_stats starts -->0 followers, 1 stars, 0 forks<!-- github_stats ends --> across shipped projects</sub>
 
 </div>
 
@@ -82,7 +82,7 @@ A privacy-first browser blocker with zero telemetry, and a lightweight extension
 
 ## `$ cat ./latest-releases`
 
-<!-- recent_releases starts -->No releases yet.<!-- recent_releases ends -->
+<!-- recent_releases starts -->• [Tokka Tokka v1.2.1](https://github.com/Wooinxlkz/Tokka/releases/tag/v1.2.1) - 2026-08-27<br>• [UnderCtrl underctrl-extension-v1.4.5](https://github.com/Wooinxlkz/UnderCtrl/releases/tag/v1.4.5) - 2026-08-26<br>• [Speusis-Downloader Speusis Downloader v0.5.68](https://github.com/Wooinxlkz/Speusis-Downloader/releases/tag/v0.5.68) - 2026-08-25<!-- recent_releases ends -->
 
 ---
 
