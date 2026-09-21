@@ -66,7 +66,6 @@ Most projects start the same way:
 | [UnderCtrl](https://github.com/Wooinxlkz/UnderCtrl)                     | Privacy-first cross-browser tracker and ad blocker.                                                                                             |
 | [ClearSpec](https://github.com/Wooinxlkz/ClearSpec)                     | Developer-focused project and specification tooling.                                                                                            |
 | [Koink](https://github.com/Wooinxlkz/Koink)                             | Native desktop software built with Tauri and React.                                                                                             |
-| [Zarc](https://github.com/Wooinxlkz/Zarc)                               | Modern Rust + Tauri archive manager and WinRAR alternative.                                                                                     |
 | [Syncinit](https://github.com/Wooinxlkz/Syncinit)                       | Native archive utility built around the `.init` format.                                                                                         |
 | [Csiby](https://github.com/Wooinxlkz/Csiby)                             | Developer-oriented AI agent and CLI tooling.                                                                                                    |
 
