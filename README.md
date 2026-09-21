@@ -13,11 +13,12 @@ I build **native applications, developer tools, AI systems, libraries, automatio
 
 **Latest Releases**
 
-<!-- recent_releases starts -->
-
-• Updating automatically from GitHub releases...
-
-<!-- recent_releases ends -->
+• [Speusis Downloader](https://github.com/Wooinxlkz/Speusis-Downloader/releases/latest) — latest release<br>
+• [Xuro](https://github.com/Wooinxlkz/Xuro/releases/latest) — latest release<br>
+• [UnderCtrl](https://github.com/Wooinxlkz/UnderCtrl/releases/latest) — latest release<br>
+• [Tokka](https://github.com/Wooinxlkz/Tokka/releases/latest) — latest release<br>
+• [Syncinit](https://github.com/Wooinxlkz/Syncinit/releases/latest) — latest release<br>
+• [Zarc](https://github.com/Wooinxlkz/Zarc/releases/latest) — latest release
 
 </td>
 <td width="600px" valign="top">
@@ -29,7 +30,7 @@ I build **native applications, developer tools, AI systems, libraries, automatio
 • [Tokka](https://github.com/Wooinxlkz/Tokka) — AI token usage & cost tracker<br>
 • [Xuro](https://github.com/Wooinxlkz/Xuro) — Local-first Markdown notes & writing studio<br>
 • [ANTHESIS](https://github.com/Wooinxlkz/ANTHESIS) — Generative audiovisual experience<br>
-• [Kinetic-UI](https://github.com/Wooinxlkz/Kinetic-UI) — Motion-driven React UI toolkit
+• [Kinetic-UI](https://github.com/Wooinxlkz/Kinetic-UI) — Motion-driven UI toolkit
 
 </td>
 </tr>
@@ -41,27 +42,34 @@ I'm an Electrical Engineer who moved deep into software development.
 
 I like working close to the system — understanding how things work underneath, then building something useful on top of it.
 
-My projects range from **native desktop applications and developer tools to AI, security, automation, libraries, renewable energy, and experimental systems**.
+My projects range from **native desktop applications and developer tools to AI, security, automation, libraries, and experimental systems**.
 
-Most projects start the same way: I notice something that should exist, then I build it.
+Most projects start the same way:
+
+**I notice something that should exist, then I build it.**
 
 ## Projects
 
-| Project                                                                 | Description                                                                                                                                       |
-| ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Speusis Downloader](https://github.com/Wooinxlkz/Speusis-Downloader)   | Native Tauri + Rust download manager with HTTP, FTP, and BitTorrent support.                                                                      |
-| [Pneuma](https://github.com/Wooinxlkz/Pneuma)                           | Parameter-efficient language model project.                                                                                                       |
-| [Tokka](https://github.com/Wooinxlkz/Tokka)                             | AI token usage and cost tracker with spend alerts and multi-site support.                                                                         |
-| [Xuro](https://github.com/Wooinxlkz/Xuro)                               | Local-first Markdown notes app with encrypted vaults, book/manga library, writing studio, Kanban boards, graph view, and Excalidraw canvases.     |
-| [Kinetic-UI](https://github.com/Wooinxlkz/Kinetic-UI)                   | Motion-driven React UI toolkit.                                                                                                                   |
-| [ANTHESIS](https://github.com/Wooinxlkz/ANTHESIS)                       | Generative audiovisual experience.                                                                                                                |
-| [Nooral](https://github.com/Wooinxlkz/Nooral)                           | Full-stack Quran companion platform for reading, memorization, reflection, prayer times, ahadith, dhikr, bookmarks, notes, and personal progress. |
-| [glyf](https://github.com/Wooinxlkz/glyf)                               | Biometric signature authentication engine.                                                                                                        |
-| [fine-print-guardian](https://github.com/Wooinxlkz/fine-print-guardian) | AI-powered contract analysis.                                                                                                                     |
-| [NutriLLM](https://github.com/Wooinxlkz/NutriLLM)                       | AI nutrition platform focused on MENA cuisine.                                                                                                    |
-| [athlete-core](https://github.com/Wooinxlkz/athlete-core)               | Production-grade TypeScript engine for workouts, pull-ups, XP, goals, analytics, nutrition, AI coaching, and rewards.                             |
-| [solair-core](https://github.com/Wooinxlkz/solair-core)                 | Framework-agnostic TypeScript engine for solar system design, hardware recommendations, energy forecasting, and financial analysis.               |
-| [UnderCtrl](https://github.com/Wooinxlkz/UnderCtrl)                     | Privacy-first, cross-browser tracker and ad blocker.                                                                                              |
+| Project                                                                 | Description                                                                                                                                     |
+| ----------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Speusis Downloader](https://github.com/Wooinxlkz/Speusis-Downloader)   | Native Tauri + Rust download manager with HTTP, FTP, and BitTorrent support.                                                                    |
+| [Pneuma](https://github.com/Wooinxlkz/Pneuma)                           | Parameter-efficient language model project.                                                                                                     |
+| [Tokka](https://github.com/Wooinxlkz/Tokka)                             | Browser extension for AI token usage, cost tracking, and usage visualization.                                                                   |
+| [Xuro](https://github.com/Wooinxlkz/Xuro)                               | Local-first Markdown notes and writing application with vaults, encryption, library tools, Kanban, graph view, and creative workspace features. |
+| [Kinetic-UI](https://github.com/Wooinxlkz/Kinetic-UI)                   | Motion-driven React UI toolkit.                                                                                                                 |
+| [ANTHESIS](https://github.com/Wooinxlkz/ANTHESIS)                       | Generative audiovisual experience combining interactive visuals and sound.                                                                      |
+| [Nooral](https://github.com/Wooinxlkz/Nooral)                           | Full-stack Quran companion for reading, memorization, reflection, prayer times, ahadith, dhikr, bookmarks, notes, and progress tracking.        |
+| [athlete-core](https://github.com/Wooinxlkz/athlete-core)               | Framework-agnostic TypeScript engine for athlete and fitness platforms, analytics, nutrition, rewards, and AI coaching.                         |
+| [solair-core](https://github.com/Wooinxlkz/solair-core)                 | TypeScript engine for solar system design, hardware recommendations, energy forecasting, and financial analysis.                                |
+| [glyf](https://github.com/Wooinxlkz/glyf)                               | Biometric signature authentication engine based on handwriting dynamics.                                                                        |
+| [fine-print-guardian](https://github.com/Wooinxlkz/fine-print-guardian) | AI-powered contract analysis and clause-level risk breakdown.                                                                                   |
+| [NutriLLM](https://github.com/Wooinxlkz/NutriLLM)                       | AI nutrition platform focused on MENA cuisine.                                                                                                  |
+| [UnderCtrl](https://github.com/Wooinxlkz/UnderCtrl)                     | Privacy-first cross-browser tracker and ad blocker.                                                                                             |
+| [ClearSpec](https://github.com/Wooinxlkz/ClearSpec)                     | Developer-focused project and specification tooling.                                                                                            |
+| [Koink](https://github.com/Wooinxlkz/Koink)                             | Native desktop software built with Tauri and React.                                                                                             |
+| [Zarc](https://github.com/Wooinxlkz/Zarc)                               | Modern Rust + Tauri archive manager and WinRAR alternative.                                                                                     |
+| [Syncinit](https://github.com/Wooinxlkz/Syncinit)                       | Native archive utility built around the `.init` format.                                                                                         |
+| [Csiby](https://github.com/Wooinxlkz/Csiby)                             | Developer-oriented AI agent and CLI tooling.                                                                                                    |
 
 ## Tech Stack
 
