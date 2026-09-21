@@ -15,10 +15,7 @@ I build **native applications, developer tools, AI systems, libraries, automatio
 
 <!-- recent_releases starts -->
 
-• [Speusis Downloader](https://github.com/Wooinxlkz/Speusis-Downloader/releases) — latest release<br>
-• [Tokka](https://github.com/Wooinxlkz/Tokka/releases) — latest release<br>
-• [UnderCtrl](https://github.com/Wooinxlkz/UnderCtrl/releases) — latest release<br>
-• [Xuro](https://github.com/Wooinxlkz/Xuro/releases) — latest release
+• Updating automatically from GitHub releases...
 
 <!-- recent_releases ends -->
 
@@ -28,11 +25,11 @@ I build **native applications, developer tools, AI systems, libraries, automatio
 **Pinned Projects**
 
 • [Pneuma](https://github.com/Wooinxlkz/Pneuma) — Parameter-efficient language model<br>
-• [Speusis Downloader](https://github.com/Wooinxlkz/Speusis-Downloader) — Native Tauri + Rust download manager (HTTP, FTP, BitTorrent)<br>
+• [Speusis Downloader](https://github.com/Wooinxlkz/Speusis-Downloader) — Native Tauri + Rust download manager<br>
 • [Tokka](https://github.com/Wooinxlkz/Tokka) — AI token usage & cost tracker<br>
-• [Xuro](https://github.com/Wooinxlkz/Xuro) — Local-first Markdown notes app & writing studio<br>
+• [Xuro](https://github.com/Wooinxlkz/Xuro) — Local-first Markdown notes & writing studio<br>
 • [ANTHESIS](https://github.com/Wooinxlkz/ANTHESIS) — Generative audiovisual experience<br>
-• [Kinetic-UI](https://github.com/Wooinxlkz/Kinetic-UI) — Motion-driven UI toolkit
+• [Kinetic-UI](https://github.com/Wooinxlkz/Kinetic-UI) — Motion-driven React UI toolkit
 
 </td>
 </tr>
@@ -44,26 +41,27 @@ I'm an Electrical Engineer who moved deep into software development.
 
 I like working close to the system — understanding how things work underneath, then building something useful on top of it.
 
-My projects range from **native desktop applications and developer tools to AI, security, automation, libraries, and experimental systems**.
+My projects range from **native desktop applications and developer tools to AI, security, automation, libraries, renewable energy, and experimental systems**.
 
 Most projects start the same way: I notice something that should exist, then I build it.
 
 ## Projects
 
-| Project                                                                 | Description                                                                             |
-| ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------- |
-| [Speusis Downloader](https://github.com/Wooinxlkz/Speusis-Downloader)   | Native Tauri + Rust download manager with HTTP, FTP, and BitTorrent support.            |
-| [Pneuma](https://github.com/Wooinxlkz/Pneuma)                           | Parameter-efficient language model project.                                            |
-| [Tokka](https://github.com/Wooinxlkz/Tokka)                             | AI token usage and cost tracker, with spend alerts and multi-site support.              |
-| [Xuro](https://github.com/Wooinxlkz/Xuro)                               | Local-first Markdown notes app — vaults, encrypted notes, a book/manga library, an Inkwell writing studio, Kanban boards, graph view, and Excalidraw canvases. |
-| [Kinetic-UI](https://github.com/Wooinxlkz/Kinetic-UI)                   | Motion-driven React UI toolkit.                                                          |
-| [ANTHESIS](https://github.com/Wooinxlkz/ANTHESIS)                       | Generative audiovisual experience.                                                       |
-| [glyf](https://github.com/Wooinxlkz/glyf)                               | Biometric signature authentication engine.                                              |
-| [fine-print-guardian](https://github.com/Wooinxlkz/fine-print-guardian) | AI-powered contract analysis.                                                            |
-| [NutriLLM](https://github.com/Wooinxlkz/NutriLLM)                       | AI nutrition platform for MENA cuisine.                                                  |
-| [athlete-core](https://github.com/Wooinxlkz/athlete-core)               | TypeScript engine for fitness platforms and AI coaching.                                |
-| [solair-core](https://github.com/Wooinxlkz/solair-core)                 | Solar system design and energy forecasting engine.                                      |
-| [UnderCtrl](https://github.com/Wooinxlkz/UnderCtrl)                     | Privacy-first, cross-browser tracker & ad blocker (Chrome, Brave, Edge, Arc, Firefox).   |
+| Project                                                                 | Description                                                                                                                                       |
+| ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Speusis Downloader](https://github.com/Wooinxlkz/Speusis-Downloader)   | Native Tauri + Rust download manager with HTTP, FTP, and BitTorrent support.                                                                      |
+| [Pneuma](https://github.com/Wooinxlkz/Pneuma)                           | Parameter-efficient language model project.                                                                                                       |
+| [Tokka](https://github.com/Wooinxlkz/Tokka)                             | AI token usage and cost tracker with spend alerts and multi-site support.                                                                         |
+| [Xuro](https://github.com/Wooinxlkz/Xuro)                               | Local-first Markdown notes app with encrypted vaults, book/manga library, writing studio, Kanban boards, graph view, and Excalidraw canvases.     |
+| [Kinetic-UI](https://github.com/Wooinxlkz/Kinetic-UI)                   | Motion-driven React UI toolkit.                                                                                                                   |
+| [ANTHESIS](https://github.com/Wooinxlkz/ANTHESIS)                       | Generative audiovisual experience.                                                                                                                |
+| [Nooral](https://github.com/Wooinxlkz/Nooral)                           | Full-stack Quran companion platform for reading, memorization, reflection, prayer times, ahadith, dhikr, bookmarks, notes, and personal progress. |
+| [glyf](https://github.com/Wooinxlkz/glyf)                               | Biometric signature authentication engine.                                                                                                        |
+| [fine-print-guardian](https://github.com/Wooinxlkz/fine-print-guardian) | AI-powered contract analysis.                                                                                                                     |
+| [NutriLLM](https://github.com/Wooinxlkz/NutriLLM)                       | AI nutrition platform focused on MENA cuisine.                                                                                                    |
+| [athlete-core](https://github.com/Wooinxlkz/athlete-core)               | Production-grade TypeScript engine for workouts, pull-ups, XP, goals, analytics, nutrition, AI coaching, and rewards.                             |
+| [solair-core](https://github.com/Wooinxlkz/solair-core)                 | Framework-agnostic TypeScript engine for solar system design, hardware recommendations, energy forecasting, and financial analysis.               |
+| [UnderCtrl](https://github.com/Wooinxlkz/UnderCtrl)                     | Privacy-first, cross-browser tracker and ad blocker.                                                                                              |
 
 ## Tech Stack
 
@@ -91,7 +89,6 @@ Most projects start the same way: I notice something that should exist, then I b
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
 
 ## GitHub
-
 
 [![GitHub](https://img.shields.io/badge/GitHub-Wooinxlkz-181717?style=flat-square\&logo=github)](https://github.com/Wooinxlkz)
 
