@@ -18,7 +18,6 @@ I build **native applications, developer tools, AI systems, libraries, automatio
 • [UnderCtrl](https://github.com/Wooinxlkz/UnderCtrl/releases/latest) — latest release<br>
 • [Tokka](https://github.com/Wooinxlkz/Tokka/releases/latest) — latest release<br>
 • [Syncinit](https://github.com/Wooinxlkz/Syncinit/releases/latest) — latest release<br>
-• [Zarc](https://github.com/Wooinxlkz/Zarc/releases/latest) — latest release
 
 </td>
 <td width="600px" valign="top">
